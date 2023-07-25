@@ -1,6 +1,7 @@
 body {
   background-color: #e8ecef;
-  min-height: 1000px;
+  height: 100%;
+  width: auto;
 }
 
 .centered {
